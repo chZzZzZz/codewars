@@ -1,6 +1,6 @@
 codewars
 ========
-###codewars solutions
+### codewars solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
