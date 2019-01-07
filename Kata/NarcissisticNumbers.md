@@ -1,4 +1,4 @@
-#1.判断一个数是不是Narcissistic number？(8kyu)
+#1.判断一个数是不是Narcissistic number？（Does my number look big in this?）(8kyu)
 方法一：
 
 ```cpp
